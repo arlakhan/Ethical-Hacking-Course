@@ -10,6 +10,7 @@ Lab 2: Network Basics and Python
 
 Using Python to get IP and MAC addresses.
 Writing scripts to perform ping sweeps and port scanning.
+
 Module 2: Reconnaissance and Information Gathering
 
 Lab 3: Website Reconnaissance
